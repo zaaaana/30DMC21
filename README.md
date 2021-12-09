@@ -11,4 +11,4 @@ Thanks to this challenge, I've definitely gained skills in GIS and mapping that 
 
 I've been posting my maps daily on both [LinkedIn](http://linkedin.com/in/zaaaana) and [Twitter](http://twitter.com/Zaaaana_) and I'm happy to connect on both platforms!
 
-![GIF](https://media-exp1.licdn.com/dms/image/C4E22AQHeJPJVSkxJCQ/feedshare-shrink_480/0/1638276532982?e=1642032000&v=beta&t=ljjHZUxlC_C7u3E9KwA5dx2o9xR-LxIbQTRDKUQ4tGo)
+<div align = "center">![GIF](https://media-exp1.licdn.com/dms/image/C4E22AQHeJPJVSkxJCQ/feedshare-shrink_480/0/1638276532982?e=1642032000&v=beta&t=ljjHZUxlC_C7u3E9KwA5dx2o9xR-LxIbQTRDKUQ4tGo)</div>
