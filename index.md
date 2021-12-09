@@ -127,4 +127,4 @@ _Created in R with [Rayshader](http://rayshader.com). 3D Map of Hilo, Hawai'i, f
 _Created in QGIS. Map of Oregon and Boring, OR, highlighting location of Gravity Falls (can you tell I had no clue what to make this day...)_
 ![Image](Maps/Day29_Null.jpg)
 
-And that's about the size of it! Datasets for each map will be uploaded / linked to my repo soon!
+And that's about the size of it! Datasets for each map will be uploaded / linked to my repo soon! In the meantime though, feel free to reach out on my socials if you're looking for any of the datasets!
