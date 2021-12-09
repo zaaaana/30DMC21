@@ -13,7 +13,7 @@ Now, let's get into it!
 
 ### Day 1: Points
 _Created in QGIS. Map of Rapa Nui (Easter Island) highlighting locations of Moai statues_
-![Image]("30DMC/maps/day1_points.jpg")
+![Image]("30DMC21/maps/day1_points.jpg")
 
 ### Day 2: Lines
 _Created in QGIS. Map highlighting travel flow from the UK to the rest of the world_
