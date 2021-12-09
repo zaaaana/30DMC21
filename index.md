@@ -1,10 +1,27 @@
-## Welcome to GitHub Pages
+## 30 Day Map Challenge: by Zaana!
+```
+This is a quick website for all the maps I've made for 2021's [30 Day Map Challenge](https://github.com/tjukanovt/30DayMapChallenge). This is my first year participating and I've had a blast!
 
-You can use the [editor on GitHub](https://github.com/zaaaana/30DMC21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Even though it was not a requirement, I managed to complete a map for each day. My main motivations for this challenge were to revisit old techniques, learn new ones, and try to create whatever I can, even if it were a map done in 5 minutes' time!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This was an amazing opportunity to build my confidence in mapping, as well as network with some amazing people in the field! I am a fan of every single person who made something this month, and I can't wait to see what everyone gets up to in the future.
 
-### Markdown
+I also posted my maps daily on both [Twitter](http://twitter.com/zaaaana_) and [LinkedIn](http://linkedin.com/in/zaaaana), so feel free to connect with me on either platform!
+
+Now, let's get into it!
+```
+
+### Day 1: Points
+_Created in QGIS. Map of Rapa Nui (Easter Island) highlighting locations of Moai statues_
+![Image](https://github.com/zaaaana/30DMC21/blob/main/Maps/day1_points.jpg)
+
+### Day 2: Lines
+_Created in QGIS. Map highlighting travel flow from the UK to the rest of the world_
+![Image](https://github.com/zaaaana/30DMC21/blob/main/Maps/day2_lines.jpg)
+
+### Day 3: Polygons
+_Created in QGIS. Simple polygon map showcasing the glacial cover of Jan Mayen, Svalbard_
+https://github.com/zaaaana/30DMC21/blob/main/Maps/day3_polygons.jpg
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
