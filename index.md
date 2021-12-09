@@ -49,7 +49,7 @@ _Created in QGIS with data from Overpass Turbo. Map of the road network in Port 
 
 ### Day 10: Raster
 _Created in QGIS. Hillshade map of Barbados_
-![Image](Maps/Day10_raster.jpg)
+![Image](Maps/day10_raster.jpg)
 
 ### Day 11: 3D
 _Created in R with [Rayshader](https://www.rayshader.com/). Plan view map of Kilauea, Hawaii. Rayshader attempt #1_
@@ -105,6 +105,7 @@ _Created in QGIS and Aerialod. Map highlighting population density in the UK_
 
 ### Day 24: Historical
 _Created in QGIS. Historical map of ~1925 Trinidad highlighting the island's now-defunct railway, with an overlay of the current major road and highway network_
+
 ![Image](Maps/Day24_Historical.jpg)
 
 ### Day 25: Interactive
@@ -121,6 +122,7 @@ _Created in QGIS, data processed in R. Heatmap of wildfires in California betwee
 
 ### Day 28: The earth is not flat
 _Created in R with [Rayshader](http://rayshader.com). 3D Map of Hilo, Hawai'i, following the tutorial by [David Solito](https://www.davidsolito.com/post/a-rayshader-base-tutortial-bonus-hawaii/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui). Rayshader attempt #2_
+
 ![Image](Maps/Day28_Notflat.jpg)
 
 ### Day 29: NULL
