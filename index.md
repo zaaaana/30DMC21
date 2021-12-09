@@ -1,5 +1,5 @@
 ## 30 Day Map Challenge: by Zaana!
-```
+
 This is a quick website for all the maps I've made for 2021's [30 Day Map Challenge](https://github.com/tjukanovt/30DayMapChallenge). This is my first year participating and I've had a blast!
 
 Even though it was not a requirement, I managed to complete a map for each day. My main motivations for this challenge were to revisit old techniques, learn new ones, and try to create whatever I can, even if it were a map done in 5 minutes' time!
@@ -9,11 +9,11 @@ This was an amazing opportunity to build my confidence in mapping, as well as ne
 I also posted my maps daily on both [Twitter](http://twitter.com/zaaaana_) and [LinkedIn](http://linkedin.com/in/zaaaana), so feel free to connect with me on either platform!
 
 Now, let's get into it!
-```
+
 
 ### Day 1: Points
 _Created in QGIS. Map of Rapa Nui (Easter Island) highlighting locations of Moai statues_
-![Image](https://github.com/zaaaana/30DMC21/blob/main/Maps/day1_points.jpg)
+![Image]("30DMC/maps/day1_points.jpg")
 
 ### Day 2: Lines
 _Created in QGIS. Map highlighting travel flow from the UK to the rest of the world_
