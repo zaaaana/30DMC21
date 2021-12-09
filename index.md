@@ -77,54 +77,54 @@ _Created in QGIS with data processed in R. Urban and Rural areas of 2010 Califor
 
 ### Day 17: Land
 _Created in QGIS. Visualising raster data of landuse in India in 1985 vs 2005_
-![Image](Day17_Land.jpg)
+![Image](Maps/Day17_Land.jpg)
 
 ### Day 18: Water
 _Created in QGIS. Water bodies of Canada >10 ha. in surface area_
-![Image](Day18_water.jpg)
+![Image](Maps/Day18_water.jpg)
 
 ### Day 19: Islands
 _Created in QGIS. Quick map of Åland Islands, highlighting main airports and airfields_
-![Image](Day19_Islands.jpg)
+![Image](Maps/Day19_Islands.jpg)
 
 ### Day 20: Movement
 _Created in QGIS, data processed in R. Map showcasing movement of 3 Herons from the [MDIFW tracking project](https://wildlife.org/heron-tracking-project-gps-data-for-all-to-use-and-learn-from/)_
-![Image](Day20_Movement.jpg)
+![Image](Maps/Day20_Movement.jpg)
 
 ### Day 21: Elevation
 _Created in QGIS. Elevation data of Vancouver / Vancouver Island_
-![Image](Day21_Elevations.jpg)
+![Image](Maps/Day21_Elevations.jpg)
 
 ### Day 22: Boundaries
 _Created in QGIS. Quick map highlighting the major districts within Trinidad_
-![Image](Day22_Boundaries.jpg)
+![Image](Maps/Day22_Boundaries.jpg)
 
 ### Day 23: Challenge 3: GHSL
 _Created in QGIS and Aerialod. Map highlighting population density in the UK_
-![Image](Day23_GHSL.jpg)
+![Image](Maps/Day23_GHSL.jpg)
 
 ### Day 24: Historical
 _Created in QGIS. Historical map of ~1925 Trinidad highlighting the island's now-defunct railway, with an overlay of the current major road and highway network_
-![Image](Day24_Historical.jpg)
+![Image](Maps/Day24_Historical.jpg)
 
 ### Day 25: Interactive
 _Created with Mapbox and Github. Interactive map highlighting the usage of the Night Tube in London during the first 5 months of service. Check it out [here](https://zaaaana.github.io/CASA0003/)_
-![Image](Day25_interactive.gif)
+![Image](Maps/Day25_interactive.gif)
 
 ### Day 26: Choropleth
 _Created in QGIS. Map highlighting population % of dog owners in the contiguous US states_
-![Image](Day26_Choropleth.jpg)
+![Image](Maps/Day26_Choropleth.jpg)
 
 ### Day 27: Heatmap
 _Created in QGIS, data processed in R. Heatmap of wildfires in California between 2010 and 2018, per millions of acres affected_
-![Image](Day27_Heatmap.jpg)
+![Image](Maps/Day27_Heatmap.jpg)
 
 ### Day 28: The earth is not flat
 _Created in R with [Rayshader](http://rayshader.com). 3D Map of Hilo, Hawai'i, following the tutorial by [David Solito](https://www.davidsolito.com/post/a-rayshader-base-tutortial-bonus-hawaii/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui). Rayshader attempt #2_
-![Image](Day28_Notflat.jpg)
+![Image](Maps/Day28_Notflat.jpg)
 
 ### Day 29: NULL
 _Created in QGIS. Map of Oregon and Boring, OR, highlighting location of Gravity Falls (can you tell I had no clue what to make this day...)_
-![Image](Day29_Null.jpg)
+![Image](Maps/Day29_Null.jpg)
 
 And that's about the size of it! Datasets for each map will be uploaded / linked to my repo soon!
