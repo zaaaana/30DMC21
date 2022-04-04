@@ -10,7 +10,3 @@ This is a GitHub repo for all the maps created for this challenge. This was my f
 Thanks to this challenge, I've definitely gained skills in GIS and mapping that I never thought I'd be able to manage. I've also connected with some amazing people within the field and I'm so thankful for the network opportunity this provided.
 
 I've been posting my maps daily on both [LinkedIn](http://linkedin.com/in/zaaaana) and [Twitter](http://twitter.com/Zaaaana_) and I'm happy to connect on both platforms!
-
-<p align="center">
-  <img width="600" height="394" src="https://media-exp1.licdn.com/dms/image/C4E22AQHeJPJVSkxJCQ/feedshare-shrink_480/0/1638276532982?e=1642032000&v=beta&t=ljjHZUxlC_C7u3E9KwA5dx2o9xR-LxIbQTRDKUQ4tGo">
-</p>
